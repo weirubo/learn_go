@@ -1,5 +1,7 @@
 package main
 
+// 常量
+
 import "fmt"
 
 const name string = "golang"

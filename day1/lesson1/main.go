@@ -1,5 +1,7 @@
 package main
 
+// 变量
+
 import "fmt"
 
 // 定义变量

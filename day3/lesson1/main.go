@@ -1,5 +1,7 @@
 package main
 
+// 数组
+
 import "fmt"
 
 func main() {

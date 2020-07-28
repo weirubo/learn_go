@@ -1,5 +1,7 @@
 package main
 
+// 基础数据类型
+
 import "fmt"
 
 var a int

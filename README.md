@@ -6,8 +6,8 @@
 4. <a href="https://mp.weixin.qq.com/s/pxDZ9E0YmLZQgZDkBBCTaQ" target="_blank">运算符</a>
 5. <a href="https://mp.weixin.qq.com/s/EjGkyAUWI50eiIibsISe4g" target="_blank">流程控制</a>
 6. <a href="https://mp.weixin.qq.com/s/VKv5wei-YxpXVuh0L78zig" target="_blank">数组</a>
-7. slice
-8. map
+7. <a href="https://mp.weixin.qq.com/s/68nADMG4Q9XWmToC8ksJCw" target="_blank">slice</a>
+8. <a href="https://mp.weixin.qq.com/s/uA2ZUikf-u-mvS6q43LnLg" target="_blank">map</a>
 9. struct
 10. 函数
 11. 错误处理

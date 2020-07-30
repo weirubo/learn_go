@@ -1,7 +1,7 @@
 ## Go 语言学习
 ### 基础知识
 1. <a href="https://github.com/weirubo/learn_go/blob/master/ebook/1.md" target="_blank">变量</a>
-2. <a href="https://mp.weixin.qq.com/s/GKG3zmic_QJPQC0oBzRuyg" target="_blank">基础数据类型</a>
+2. <a href="https://github.com/weirubo/learn_go/blob/master/ebook/2.md" target="_blank">基础数据类型</a>
 3. <a href="https://mp.weixin.qq.com/s/DnKlvknT4f9NkI9Op2lcZA" target="_blank">常量</a>
 4. <a href="https://mp.weixin.qq.com/s/pxDZ9E0YmLZQgZDkBBCTaQ" target="_blank">运算符</a>
 5. <a href="https://mp.weixin.qq.com/s/EjGkyAUWI50eiIibsISe4g" target="_blank">流程控制</a>

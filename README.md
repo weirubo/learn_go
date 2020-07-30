@@ -8,7 +8,7 @@
 6. <a href="https://mp.weixin.qq.com/s/VKv5wei-YxpXVuh0L78zig" target="_blank">数组</a>
 7. <a href="https://mp.weixin.qq.com/s/68nADMG4Q9XWmToC8ksJCw" target="_blank">slice</a>
 8. <a href="https://mp.weixin.qq.com/s/uA2ZUikf-u-mvS6q43LnLg" target="_blank">map</a>
-9. struct
+9. <a href="https://mp.weixin.qq.com/s/GCqWDWIt4GFd58zv8KHbvA" target="_blank">struct</a>
 10. 函数
 11. 错误处理
 12. panic 和 recover

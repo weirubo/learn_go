@@ -11,7 +11,7 @@
 9. <a href="https://mp.weixin.qq.com/s/GCqWDWIt4GFd58zv8KHbvA" target="_blank">struct</a>
 10. <a href="https://mp.weixin.qq.com/s/mJc-zd7cL4ExarvbRTJiEQ" target="_blank">函数</a>
 11. <a href="https://mp.weixin.qq.com/s/YWnTr_QNKvnDNjyAzr4Dcw" target="_blank">错误处理</a>
-12. panic 和 recover
+12. <a href="https://mp.weixin.qq.com/s/aJqc9S1SlYd0iN4HF5on7A" target="_blank">panic 和 recover</a>
 13. 方法
 14. 接口
 15. 并发

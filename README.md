@@ -14,7 +14,9 @@
 12. <a href="https://mp.weixin.qq.com/s/aJqc9S1SlYd0iN4HF5on7A" target="_blank">panic 和 recover</a>
 13. <a href="https://mp.weixin.qq.com/s/TPeibdAWA9VLv4B4alwkjQ" target="_blank">方法</a>
 14. 接口
-15. 并发
-16. 测试
-17. 包
-18. 反射
+15. goroutine 和 channel
+16. 并发
+17. 测试
+18. 包
+19. go tool
+20. 反射

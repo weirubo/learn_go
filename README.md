@@ -15,7 +15,7 @@
 13. <a href="https://mp.weixin.qq.com/s/TPeibdAWA9VLv4B4alwkjQ" target="_blank">方法</a>
 14. <a href="https://mp.weixin.qq.com/s/v_pNTrj4lHR3fv1k9V2wMQ" target="_blank">接口</a>
 15. <a href="https://mp.weixin.qq.com/s/bgvITTjr-_5m6zmXgtV5Bw" target="_blank">goroutine 和 channel</a>
-16. 并发
+16. <a href="https://mp.weixin.qq.com/s/R2mlXTADdq72IzFUmyOziw" target="_blank">并发</a>
 17. 测试
 18. 包
 19. go tool

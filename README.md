@@ -16,7 +16,7 @@
 14. <a href="https://mp.weixin.qq.com/s/v_pNTrj4lHR3fv1k9V2wMQ" target="_blank">接口</a>
 15. <a href="https://mp.weixin.qq.com/s/bgvITTjr-_5m6zmXgtV5Bw" target="_blank">goroutine 和 channel</a>
 16. <a href="https://mp.weixin.qq.com/s/R2mlXTADdq72IzFUmyOziw" target="_blank">并发</a>
-17. 测试
-18. 包
+17. <a href="https://mp.weixin.qq.com/s/-rFBeMQ6Us2bGUmT6o5Tmg" target="_blank">测试</a>
+18. <a href="https://mp.weixin.qq.com/s/jSMZLOYBQApoNu2TomJ6iw" target="_blank">包</a>
 19. go tool
 20. 反射

@@ -25,3 +25,4 @@
 22. [GOPATH 模式怎么迁移至 Modules 模式？](https://mp.weixin.qq.com/s/89Ijd_nghmoXi4ZzXe605A)
 23. [怎么发布 Go Modules v1 版本？](https://mp.weixin.qq.com/s/kj5i2SCN2SCCVexHJLtoBw)
 24. [Go Modules 如何创建和发布 v2 及更高版本？](https://mp.weixin.qq.com/s/Jppyj3YLSrJbDxpJwC8B0w)
+25. [保持 Modules 的兼容性](https://mp.weixin.qq.com/s/Q6hO_tc7RCOWABRwK9hrrA)

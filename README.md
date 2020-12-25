@@ -20,3 +20,13 @@
 18. <a href="https://mp.weixin.qq.com/s/jSMZLOYBQApoNu2TomJ6iw" target="_blank">包</a>
 19. <a href="https://mp.weixin.qq.com/s/2wvfob2BUYktsZ1aZqcqqQ" target="_blank">go tool</a>
 20. <a href="https://mp.weixin.qq.com/s/mIwFK61-lD9S9JPCWBHFGA" target="_blank">反射</a>
+
+### 加餐
+21. [Go Modules 介绍与基本操作](https://mp.weixin.qq.com/s/Ce56XkzkYhLu-T0zOEjkzw)
+22. [GOPATH 模式怎么迁移至 Modules 模式？](https://mp.weixin.qq.com/s/89Ijd_nghmoXi4ZzXe605A)
+23. [怎么发布 Go Modules v1 版本？](https://mp.weixin.qq.com/s/kj5i2SCN2SCCVexHJLtoBw)
+24. [Go Modules 如何创建和发布 v2 及更高版本？](https://mp.weixin.qq.com/s/Jppyj3YLSrJbDxpJwC8B0w)
+25. [保持 Modules 的兼容性](https://mp.weixin.qq.com/s/Q6hO_tc7RCOWABRwK9hrrA)
+***
+![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
+

@@ -30,7 +30,7 @@
 26. [Golang 1.16 中 Module 有什么变化？](https://mp.weixin.qq.com/s/MfEQ-JL-gJEgb6Sc3sr2Lw)
 
 ### 番外
-27. [Golang 语言怎么进行功能测试？]()
+27. [Golang 语言怎么编写测试代码？](https://mp.weixin.qq.com/s/P4elvWrbA8qcDcGLBcy-0Q)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

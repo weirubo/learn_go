@@ -32,6 +32,7 @@
 ### 番外
 27. [Golang 语言怎么编写测试代码？](https://mp.weixin.qq.com/s/P4elvWrbA8qcDcGLBcy-0Q)
 28. [Golang 语言怎么高效拼接字符串？](https://mp.weixin.qq.com/s/zwVVeLdclj8qPaj189ygNg)
+29. [Golang 语言怎么高效排序数据？](https://mp.weixin.qq.com/s/8gzmVFzsQowA31Tc_4nQNQ)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

@@ -37,6 +37,7 @@
 31. [Golang 语言函数的高级使用方式](https://mp.weixin.qq.com/s/UNm-wYXudiOuWAWQHWB3TQ)
 32. [Golang 语言编程使用接口有哪些好处？](https://mp.weixin.qq.com/s/VANSVcLtCLC0gWmEsa8sFw)
 33. [Golang 语言怎么避免引发 panic？](https://mp.weixin.qq.com/s/D4en3Ozfp7Vf8kjPrLFbSg)
+34. [Golang 语言该用命名返回值吗？](https://mp.weixin.qq.com/s/NbTzlvubUVUBakwKKNbcVw)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

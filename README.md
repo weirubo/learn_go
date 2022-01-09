@@ -39,6 +39,7 @@
 33. [Golang 语言怎么避免引发 panic？](https://mp.weixin.qq.com/s/D4en3Ozfp7Vf8kjPrLFbSg)
 34. [Golang 语言该用命名返回值吗？](https://mp.weixin.qq.com/s/NbTzlvubUVUBakwKKNbcVw)
 35. [Golang 语言 for 和 for-range 的区别](https://mp.weixin.qq.com/s/z-0Sff8r3n5TPjVXG_MIeQ)
+36. [Golang 语言怎么避免空指针引发的 panic](https://mp.weixin.qq.com/s/9s6YXJsZcXyfgWDYG-WZOQ)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

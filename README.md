@@ -43,6 +43,7 @@
 37. [Golang 语言怎么打印结构体指针类型字段的值？](https://mp.weixin.qq.com/s/5B-sPyk4qgFsplsJ9mMD_Q)
 38. [Golang 语言 vendor 在 GOPATH 和 Modules 中的区别](https://mp.weixin.qq.com/s/1rlC-0akmgpmlmHjO-WxUA)
 39. [Golang 语言的多种变量声明方式和使用场景](https://mp.weixin.qq.com/s/croxWsCnjsaPJy9zigx4Gg)
+40. [Go 语言的函数是“一等公民”？](https://mp.weixin.qq.com/s/42m-EQnRqdv6_Mmt8wDn0Q)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

@@ -42,5 +42,5 @@ func main() {
 		}
 	}()
 	time.Sleep(100 * time.Millisecond)
-	fmt.Println("main func over")
+	fmt.Println("main.go func over")
 }

@@ -45,6 +45,7 @@
 39. [Golang 语言的多种变量声明方式和使用场景](https://mp.weixin.qq.com/s/croxWsCnjsaPJy9zigx4Gg)
 40. [Go 语言的函数是“一等公民”？](https://mp.weixin.qq.com/s/42m-EQnRqdv6_Mmt8wDn0Q)
 41. [Go 语言错误处理为什么更推荐使用 pkg/errors 三方库？](https://mp.weixin.qq.com/s/nL5uIGCXYON5doGGeHchAQ)
+42. [Go 语言怎么使用变长参数函数？](https://mp.weixin.qq.com/s/fhqtRTGgVu6aSC581luvCg)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

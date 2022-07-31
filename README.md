@@ -47,6 +47,7 @@
 41. [Go 语言错误处理为什么更推荐使用 pkg/errors 三方库？](https://mp.weixin.qq.com/s/nL5uIGCXYON5doGGeHchAQ)
 42. [Go 语言怎么使用变长参数函数？](https://mp.weixin.qq.com/s/fhqtRTGgVu6aSC581luvCg)
 43. [Go 语言逃逸分析](https://mp.weixin.qq.com/s/34cmyuPOjlhAQm6zYhBIsg)
+44. [Go 语言内存逃逸案例](https://mp.weixin.qq.com/s/iACaQ8vsxEvUVsDJ5QO6UA)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
 

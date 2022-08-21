@@ -52,7 +52,7 @@
 46. [Go 语言使用 goroutine 运行闭包的“坑”](https://mp.weixin.qq.com/s/h__5zKCKUkxUTmBjbKsA2w)
 47. [Go 语言怎么处理三方接口返回数据？](https://mp.weixin.qq.com/s/QyWuOsPUFq7XqvIbnBJP_A)
 ***
-![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
+![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 
 [感谢 JetBrains 的支持！](https://www.jetbrains.com/?from=lenarn_go)
 

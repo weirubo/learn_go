@@ -54,6 +54,7 @@
 48. [Go 语言怎么解决编译器错误“err is shadowed during return”？](https://mp.weixin.qq.com/s/kGC1X5DQ7eQAdn70ZhElNw)
 49. [Go 语言为什么建议 append 追加新元素使用原切片变量接收返回值？](https://mp.weixin.qq.com/s/jGTslWJF4bDXmynISI9btA)
 50. [Go 语言一次性定时器使用方式和实现原理](https://mp.weixin.qq.com/s/NXbYTX96hFfwYuh6gACAHg)
+51. [Go 语言 errgroup 库的使用方式和实现原理](https://mp.weixin.qq.com/s/R8f_-cl98th7ZiSVxaeUAQ)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

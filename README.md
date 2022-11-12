@@ -56,6 +56,7 @@
 50. [Go 语言一次性定时器使用方式和实现原理](https://mp.weixin.qq.com/s/NXbYTX96hFfwYuh6gACAHg)
 51. [Go 语言 errgroup 库的使用方式和实现原理](https://mp.weixin.qq.com/s/R8f_-cl98th7ZiSVxaeUAQ)
 52. [Go 语言 context 最佳实践](https://mp.weixin.qq.com/s/DxEeLUS8hotYh8Js5FyR5w)
+53. [Go 语言开源项目使用的函数选项模式](https://mp.weixin.qq.com/s/2jzg2PIK_esjTxSFMkp02A)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

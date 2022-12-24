@@ -59,6 +59,7 @@
 53. [Go 语言开源项目使用的函数选项模式](https://mp.weixin.qq.com/s/2jzg2PIK_esjTxSFMkp02A)
 54. [Go 1.18 新增三大功能之一“泛型”怎么使用？](https://mp.weixin.qq.com/s/0JKH-Bo8n9I9zT683ZA-iw)
 55. [Go 1.18 新增三大功能之一“工作区模式”介绍](https://mp.weixin.qq.com/s/C_Pnr22HIpS9SKdXRHbJ1A)
+56. [Go 1.18 新增三大功能之一“模糊测试”使用方式](https://mp.weixin.qq.com/s/S2InTxuwg0G-wPSy1Q34PQ)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

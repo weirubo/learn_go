@@ -61,6 +61,7 @@
 55. [Go 1.18 新增三大功能之一“工作区模式”介绍](https://mp.weixin.qq.com/s/C_Pnr22HIpS9SKdXRHbJ1A)
 56. [Go 1.18 新增三大功能之一“模糊测试”使用方式](https://mp.weixin.qq.com/s/S2InTxuwg0G-wPSy1Q34PQ)
 57. [Go 语言 15 个内置函数详解](https://mp.weixin.qq.com/s/FKp1nAX2FOeBMgchJOe4ag)
+58. [Go 语言类型转换的陷阱](https://mp.weixin.qq.com/s/p1n6EAid5o_knT0i0NWX_Q)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

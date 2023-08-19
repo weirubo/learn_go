@@ -63,6 +63,7 @@
 57. [Go 语言 15 个内置函数详解](https://mp.weixin.qq.com/s/FKp1nAX2FOeBMgchJOe4ag)
 58. [Go 语言类型转换的陷阱](https://mp.weixin.qq.com/s/p1n6EAid5o_knT0i0NWX_Q)
 59. [Go 语言使用 XORM 操作 MySQL 的陷阱](https://mp.weixin.qq.com/s/zbvUzoa1K7AIQK-p3v-WQQ)
+60. [Go 语言怎么使用类型转换和类型断言？](https://mp.weixin.qq.com/s/aMHqASVyAidHOYvUtxCuRg)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

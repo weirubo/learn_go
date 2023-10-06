@@ -65,6 +65,7 @@
 59. [Go 语言使用 XORM 操作 MySQL 的陷阱](https://mp.weixin.qq.com/s/zbvUzoa1K7AIQK-p3v-WQQ)
 60. [Go 语言怎么使用类型转换和类型断言？](https://mp.weixin.qq.com/s/aMHqASVyAidHOYvUtxCuRg)
 61. [Go 1.21.0 新增 3 个内置函数详解](https://mp.weixin.qq.com/s/b-WXPjUYA4UZp8dMXFr1og)
+62. [Go 1.21.0 新增标准库 slices 和 maps 详解](https://mp.weixin.qq.com/s/hXp2wbZh94o4pVDdkRhUwQ)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

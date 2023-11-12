@@ -67,6 +67,7 @@
 61. [Go 1.21.0 新增 3 个内置函数详解](https://mp.weixin.qq.com/s/b-WXPjUYA4UZp8dMXFr1og)
 62. [Go 1.21.0 新增标准库 slices 和 maps 详解](https://mp.weixin.qq.com/s/hXp2wbZh94o4pVDdkRhUwQ)
 63. [Go 1.21.0 中新增的结构化日志记录标准库 log/slog 详解](https://mp.weixin.qq.com/s/oSwxxQaqI5Z2bTVUqUY54w)
+64. [Go 语言开发的基于指标的监控系统 Prometheus](https://mp.weixin.qq.com/s/ObQAL5OlJbBbncyGYSKAfw)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

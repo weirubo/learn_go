@@ -69,6 +69,7 @@
 63. [Go 1.21.0 中新增的结构化日志记录标准库 log/slog 详解](https://mp.weixin.qq.com/s/oSwxxQaqI5Z2bTVUqUY54w)
 64. [Go 语言开发的基于指标的监控系统 Prometheus](https://mp.weixin.qq.com/s/ObQAL5OlJbBbncyGYSKAfw)
 65. [Prometheus Go client library 详解](https://mp.weixin.qq.com/s/RFkyPG4qWrr6USjPKTXE4g)
+66. [Prometheus 的查询语言 PromQL 详解](https://mp.weixin.qq.com/s/qAl2e-v3wu8Hk5n9D1pLUQ)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

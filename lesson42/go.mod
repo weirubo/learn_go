@@ -1,4 +1,4 @@
-module lesson42
+module github.com/weirubo/learn_go/lesson42
 
 go 1.18
 

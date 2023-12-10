@@ -1,4 +1,4 @@
-module learn_go/lesson30
+module github.com/weirubo/learn_go/lesson30
 
 go 1.17
 

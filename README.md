@@ -75,5 +75,4 @@
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 
-[感谢 JetBrains 的支持！](https://www.jetbrains.com/?from=lenarn_go)
 

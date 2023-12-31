@@ -72,6 +72,7 @@
 66. [Prometheus 的查询语言 PromQL 详解](https://mp.weixin.qq.com/s/qAl2e-v3wu8Hk5n9D1pLUQ)
 67. [Go 语言字符串使用方式与技巧](https://mp.weixin.qq.com/s/gL2hDOjuD7subD-MxTQRdQ)
 68. [Go 语言为什么很少使用数组？](https://mp.weixin.qq.com/s/bhR9vTr3n3wthfkbHHD0_A)
+69. [Go 语言为什么建议多使用切片，少使用数组？](https://mp.weixin.qq.com/s/QCf07_UmxBNyIyCMRkONhw)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

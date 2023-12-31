@@ -73,6 +73,7 @@
 67. [Go 语言字符串使用方式与技巧](https://mp.weixin.qq.com/s/gL2hDOjuD7subD-MxTQRdQ)
 68. [Go 语言为什么很少使用数组？](https://mp.weixin.qq.com/s/bhR9vTr3n3wthfkbHHD0_A)
 69. [Go 语言为什么建议多使用切片，少使用数组？](https://mp.weixin.qq.com/s/QCf07_UmxBNyIyCMRkONhw)
+70. [Go 语言为什么不支持并发读写 map？](https://mp.weixin.qq.com/s/n6K6tbDRdS5c0hMtmHxdFg)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

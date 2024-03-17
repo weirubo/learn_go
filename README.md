@@ -75,6 +75,7 @@
 69. [Go 语言为什么建议多使用切片，少使用数组？](https://mp.weixin.qq.com/s/QCf07_UmxBNyIyCMRkONhw)
 70. [Go 语言为什么不支持并发读写 map？](https://mp.weixin.qq.com/s/n6K6tbDRdS5c0hMtmHxdFg)
 71. [Go 语言中 defer 使用时有哪些陷阱？](https://mp.weixin.qq.com/s/g6ohhBBQd0u4PzD1KhnKCA)
+72. [Go 1.22 对 “for” 循环进行了两项更改](https://mp.weixin.qq.com/s/Cj2pAHXRBovbQdcpTCu_bA)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 

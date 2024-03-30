@@ -77,6 +77,7 @@
 71. [Go 语言中 defer 使用时有哪些陷阱？](https://mp.weixin.qq.com/s/g6ohhBBQd0u4PzD1KhnKCA)
 72. [Go 1.22 对 “for” 循环进行了两项更改](https://mp.weixin.qq.com/s/Cj2pAHXRBovbQdcpTCu_bA)
 73. [Go 1.22 对 net/http.ServeMux 多路复用器新增两个增强功能](https://mp.weixin.qq.com/s/7tb2IzjvvsIAsNaReTCd7g)
+74. [Go 1.22 标准库 slices 新增函数和一些旧函数增加新特性](https://mp.weixin.qq.com/s/HPEvCCxLSokywi76-reI6g)
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
 
